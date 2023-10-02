@@ -1,4 +1,0 @@
-Sitemap: https://hackertoolkits.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: hackertoolkits.github.io
